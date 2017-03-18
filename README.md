@@ -1,3 +1,3 @@
 # startapp
 
-First Django Project with integrated WYSIWYG ckeditor.
+my First Django Project with integrated WYSIWYG ckeditor.
